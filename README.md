@@ -3,7 +3,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Imagine&layout=compact)](https://github.com/RS-Imagine/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/RS-Imagine/count.svg)
 
 <!--
 **RS-Imagine/RS-Imagine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
