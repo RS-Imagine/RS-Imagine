@@ -1,5 +1,12 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-Imagine)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS-Imagine)](https://github.com/RS-Imagine/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Imagine)](https://github.com/RS-Imagine/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RS-Imagine&layout=compact)](https://github.com/RS-Imagine/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/RS-Imagine/count.svg)
+
 <!--
 **RS-Imagine/RS-Imagine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
