@@ -1,4 +1,4 @@
-#  🎉 Hello! <img src="https://komarev.com/ghpvc/?username=RS-Imagine&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+#  🎉 Hi there! <img src="https://komarev.com/ghpvc/?username=RS-Imagine&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 <p style="font-size:1.5rem"><em>Alternatively, you can get to know me from my personal website.</em>
 <a href="https://forimagine.eu.org/"><img src="https://img.shields.io/badge/Blog-ForImagine-green" /></a>&emsp;</p>
 
@@ -20,25 +20,26 @@
 
 <tr><td>
 
-## 📃 Recent Blog
+### 📃 Recent Blog
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
-<!-- START_SECTION:blog -->
-<!-- END_SECTION:blog -->
+* <a href='https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting' target='_blank'>AI 数字绘画</a> - 2024-01-26
+* <a href='https://forimagine.eu.org/article/LaTeX' target='_blank'>学习如何使用LaTeX进行写作</a> - 2024-1-25
+* <a href='https://forimagine.eu.org/article/StudyForMarkdown' target='_blank'>Markdown学习小结</a> - 2024-1-24
 
 </td></tr>
 
 
 <tr><td>
 
-## ✨ Funny Soul
+### ✨ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/artist.png" />
 
-* <a href='https://movie.douban.com/subject/3793023/' target='_blank'>印影《3 Idiots》</a> 🌟🌟🌟🌟🌟 力荐- 2024-1-26
-* <a href='https://movie.douban.com/subject/25848328/' target='_blank'>美剧《The Last of Us Season 1》</a> 🌟🌟🌟🌟🌟 力荐- 2023-12-30
-* <a href='https://book.douban.com/subject/35481711/' target='_blank'>余华《活着》</a> 🌟🌟🌟🌟🌟 力荐- 2021-8-2
+* <a href='https://movie.douban.com/subject/3793023/' target='_blank'>印影《3 Idiots》</a> 🌟🌟🌟🌟 - 2024-1-26
+* <a href='https://movie.douban.com/subject/25848328/' target='_blank'>美剧《The Last of Us Season 1》</a> 🌟🌟🌟🌟🌟 - 2023-12-30
+* <a href='https://book.douban.com/subject/35481711/' target='_blank'>余华《活着》</a> 🌟🌟🌟🌟🌟 - 2021-8-2
 
 </td></tr>
 
@@ -48,7 +49,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/hr.gif" />
 
 <table >
-<h2>😃😎 A joke and a quote</h2>
+<h2>Learning and Entertainment</h2>
   <tr>
     <td>
       <div align="center">
@@ -77,7 +78,7 @@
       <td>
         <!-- Quotes 名人名言 -->
         <div>
-          <img style="vertical-align:middle;z-index:999" src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+          <img src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
         </div>
       </td>
   </tr>
@@ -92,7 +93,7 @@
 <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-## 💪 Learning
+### 💪 Learning
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -104,7 +105,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   
-## 🧠 Plan to learn
+### 🧠 Plan to learn
 
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
@@ -115,7 +116,7 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-## 🧰 Commonly used tools
+### 🧰 Commonly used tools
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
