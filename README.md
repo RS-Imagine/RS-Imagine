@@ -28,7 +28,14 @@
 * <a href='https://forimagine.eu.org/' target='_blank'>AI 数字绘画</a> - 2024-01-26
 * <a href='https://forimagine.eu.org/' target='_blank'>学习如何使用LaTeX进行写作</a> - 2024-1-25
 * <a href='https://forimagine.eu.org/' target='_blank'>Markdown学习小结</a> - 2024-1-24
+
+
 <!-- END_SECTION:blog -->
+
+<!-- START_SECTION:brain --> 
+<!-- END_SECTION:brain -->
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
 
 </td></tr>
 
