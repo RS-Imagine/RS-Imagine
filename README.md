@@ -30,6 +30,11 @@
 * <a href='https://forimagine.eu.org/' target='_blank'>Markdown学习小结</a> - 2024-1-24
 <!-- END_SECTION:blog -->
 
+<!-- START_SECTION:brain -->
+<!-- END_SECTION:brain -->
+<!-- START_SECTION:douban -->
+<!-- END_SECTION:douban -->
+
 </td></tr>
 
 
