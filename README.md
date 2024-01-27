@@ -70,16 +70,16 @@
         <!-- Joke 笑话 -->
         <div>
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-            <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-            <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+            <source media="(prefers-color-scheme: light)" srcset="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+            <img alt="Jokes Card" src="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
           </picture>
         </div>
       </td>
       <td>
         <!-- Quotes 名人名言 -->
         <div>
-          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+          <img src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
         </div>
       </td>
   </tr>
