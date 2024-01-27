@@ -14,6 +14,6 @@ jobs:
           blog_rss_link: https://forimagine.eu.org/rss/feed.xml
           blog_limit: 5 # blog数量
 
-          brain_limit: 0
-          douban_limit: 0
+          # brain_limit: 0
+          # douban_limit: 0
           commit_message: Updated Blog RSS by Blog-Readme # commit说明
