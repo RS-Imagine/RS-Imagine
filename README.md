@@ -1,4 +1,4 @@
-#  🎉 Hi there! <img src="https://komarev.com/ghpvc/?username=RS-Imagine&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+#  🎉 Hi there! <img src="https://proxy.forimagine.eu.org/proxy/https://komarev.com/ghpvc/?username=RS-Imagine&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 <p style="font-size:1.5rem"><em>Alternatively, you can get to know me from my personal website.</em>
 <a href="https://forimagine.eu.org/"><img src="https://img.shields.io/badge/Blog-ForImagine-green" /></a>&emsp;</p>
 
