@@ -1,13 +1,13 @@
 #  🎉 Hello! <img src="https://komarev.com/ghpvc/?username=RS-Imagine&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 <p style="font-size:1.5rem"><em>Alternatively, you can get to know me from my personal website.</em>
-<a href="https://forimagine.eu.org/"><img src="https://img.shields.io/badge/Blog-博客-green" /></a>&emsp;</p>
+<a href="https://forimagine.eu.org/"><img src="https://img.shields.io/badge/Blog-ForImagine-green" /></a>&emsp;</p>
 
 
 <table>
-  
+
 <tr><td>
 
-### 🧑 About Me
+## 🧑 About Me
 
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/favicon.png" />
 
@@ -20,7 +20,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
+## 📃 Recent Blog
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
@@ -35,7 +35,7 @@
 
 <tr><td>
 
-### ✨ Funny Soul
+## ✨ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/artist.png" />
 
@@ -50,7 +50,8 @@
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/hr.gif" />
 
-<table>
+<table >
+<h2>😃😎 A joke and a quote</h2>
   <tr>
     <td>
       <div align="center">
@@ -70,16 +71,16 @@
         <!-- Joke 笑话 -->
         <div>
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
-            <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
-            <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
+            <source media="(prefers-color-scheme: light)" srcset="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
+            <img alt="Jokes Card" src="https://proxy.forimagine.eu.org/proxy/https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
           </picture>
         </div>
       </td>
       <td>
         <!-- Quotes 名人名言 -->
         <div>
-          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+          <img style="vertical-align:middle" src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
         </div>
       </td>
   </tr>
@@ -94,7 +95,7 @@
 <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+## 💪 Learning
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -106,7 +107,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   
-🧠 计划学习
+## 🧠 Plan to learn
 
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
@@ -117,7 +118,7 @@
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-🧰 常用的工具
+## 🧰 Commonly used tools
 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
