@@ -80,7 +80,7 @@
       <td>
         <!-- Quotes 名人名言 -->
         <div>
-          <img style="vertical-align:middle" src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+          <img style="vertical-align:middle;z-index:999" src="https://proxy.forimagine.eu.org/proxy/https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
         </div>
       </td>
   </tr>
