@@ -7,7 +7,7 @@
 
 <tr><td>
 
-## 🧑 About Me
+## 🧑🏼 About Me
 
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/favicon.png" />
 
@@ -20,7 +20,7 @@
 
 <tr><td>
 
-### 📃 Recent Blog
+### 📰 Recent Blog
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
@@ -49,7 +49,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/hr.gif" />
 
 <table >
-<h2>Learning and Entertainment</h2>
+<h2>🚴🏼‍♀️ Learning and Entertainment</h2>
   <tr>
     <td>
       <div align="center">
@@ -93,7 +93,7 @@
 <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/man.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
-### 💪 Learning
+### 💪🏼 Learning
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -105,7 +105,7 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   
-### 🧠 Plan to learn
+### ✍🏼 Plan to learn
 
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
