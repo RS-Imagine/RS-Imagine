@@ -53,13 +53,17 @@
 <table>
   <tr>
     <td>
-      <div align="left">
+      <div align="center">
         <!-- run 图片 -->
-        <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/man_run.png" width="250" height="250" /></td>
+        <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/man_run.png" width="250" height="250">
+      </div>
+    </td>
     <td>
-      <div align="right" >
+      <div align="center" >
         <!-- just img 图片 -->
-        <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/mb.png" width="250" height="250" /></td>
+        <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/mb.png" width="250" height="250">
+      </div>
+    </td>
   </tr>
   <tr>
       <td>
@@ -75,7 +79,7 @@
       <td>
         <!-- Quotes 名人名言 -->
         <div>
-          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br></div>
+          <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
         </div>
       </td>
   </tr>
