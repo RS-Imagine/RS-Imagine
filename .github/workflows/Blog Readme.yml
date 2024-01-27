@@ -13,5 +13,10 @@ jobs:
         with:
           blog_rss_link: https://forimagine.eu.org/rss/feed.xml
           blog_limit: 5 # blog数量
+          
+          brain_rss_link: https://brain.sunguoqi.com/rss.xml
+          brain_limit: 0
+          douban_name: sunguoqi
+          douban_limit: 0 # 豆瓣最新动态数量
 
           commit_message: Updated social rss by social-readme # commit说明
