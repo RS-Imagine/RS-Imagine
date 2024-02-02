@@ -20,13 +20,12 @@
 
 <tr><td>
 
-### 📰 Recent Blog
+### 📰 Recent Blogs
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
-* <a href='https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting' target='_blank'>AI 数字绘画</a> - 2024-01-26
-* <a href='https://forimagine.eu.org/article/LaTeX' target='_blank'>学习如何使用LaTeX进行写作</a> - 2024-1-25
-* <a href='https://forimagine.eu.org/article/StudyForMarkdown' target='_blank'>Markdown学习小结</a> - 2024-1-24
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 </td></tr>
 
