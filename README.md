@@ -25,6 +25,11 @@
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus)
+- [AI 数字绘画](https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting)
+- [学习如何使用LaTeX进行写作](https://forimagine.eu.org/article/LaTeX)
+- [Markdown学习小结](https://forimagine.eu.org/article/StudyForMarkdown)
+- [怎么系统性地学习Web开发？](https://forimagine.eu.org/article/web_study)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
