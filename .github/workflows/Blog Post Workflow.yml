@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://forimagine.eu.org/feed"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) >>$date $newline - $description $newline"
