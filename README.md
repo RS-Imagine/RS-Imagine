@@ -24,11 +24,21 @@
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
-<!-- BLOG-POST-LIST:START -->- 💯[GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) 
-- 🔥[AI 数字绘画](https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting) 
-- 💫 
-- 💯 
-- 💯 
+<!-- BLOG-POST-LIST:START -->
+ - 💯[GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) 
+ - GitHub Education 让学生免费使用 GitHub 合作伙伴的各种开发工具，为他们提供真实的体验。 
+
+ - 🔥[AI 数字绘画](https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting) 
+ - 分享我个人 Prompt 出来的 AI 画作 
+
+ - 💫 
+ - 拥抱 LaTeX：一种强大的写作工具 
+
+ - 💯 
+ - 2024年1月24日晚9:30左右简单学习了一下Markdown，以此记录。 
+
+ - 💯 
+ - Web开发初学者的学习路线 
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
