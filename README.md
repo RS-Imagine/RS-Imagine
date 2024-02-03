@@ -121,6 +121,7 @@
 ### 🧰 commonly used Tools
 ![ArcGIS Badge](https://img.shields.io/badge/ArcGIS-Pro-brightgreen?logo=arcgis&labelColor=%23E6E6FA)
 ![Static Badge](https://img.shields.io/badge/ENVI-The%20Environment%20for%20Visualizing%20Images-gray?labelColor=%23808080&color=%2300FFFF)
+
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
@@ -129,4 +130,4 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
   <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/icon.png" />
+  <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/icon.png">
