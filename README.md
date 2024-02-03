@@ -24,12 +24,12 @@
   
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
-<!-- BLOG-POST-LIST:START -->
- - 💯[GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) >>Wed Jan 31 2024 12:00 AM
- - 🔥[AI 数字绘画](https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting) >>Fri Jan 26 2024 12:00 AM
- - 💫 >>Thu Jan 25 2024 12:00 AM
- - 💯 >>Wed Jan 24 2024 12:00 AM
- - 💯 >>Tue Nov 28 2023 12:00 AM<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 💯[GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) 
+- 🔥[AI 数字绘画](https://forimagine.eu.org/article/AIDigitalPaintingDigitalPainting) 
+- 💫 
+- 💯 
+- 💯 
+<!-- BLOG-POST-LIST:END -->
 
 </td></tr>
 
