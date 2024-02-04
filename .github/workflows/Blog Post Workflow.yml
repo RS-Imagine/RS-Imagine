@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://forimagine.eu.org/feed"
+          feed_names: "Imagine Blog"
           date_format: "mmmm d, yyyy"
-          template: "$newline - $date：$emojiKey(💯,🔥,💫,🚀,🌮) [$title]($url) `$categories`"
+          template: "$newline - $date：$emojiKey(💯,🔥,💫,🚀,🌮) [$title]($url) $feedName"
