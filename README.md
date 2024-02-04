@@ -25,11 +25,11 @@
 <img align="right" width="90" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
- - January 31, 2024：💯 [GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) ``
- - January 25, 2024：🔥 [如何使用 LaTeX 进行写作？](https://forimagine.eu.org/article/LaTeX) ``
- - January 24, 2024：💫 [Markdown 学习小结](https://forimagine.eu.org/article/StudyForMarkdown) ``
- - November 28, 2023：🚀 [怎么系统性地学习 Web 开发？](https://forimagine.eu.org/article/web_study) ``
- - November 25, 2023：🌮 [如何搭建个人博客？](https://forimagine.eu.org/article/Introduction) ``<!-- BLOG-POST-LIST:END -->
+ - January 31, 2024：💯 [GitHub Global Campus 学生认证](https://forimagine.eu.org/article/GitHub_Global_Campus) Imagine Blog
+ - January 25, 2024：🔥 [如何使用 LaTeX 进行写作？](https://forimagine.eu.org/article/LaTeX) Imagine Blog
+ - January 24, 2024：💫 [Markdown 学习小结](https://forimagine.eu.org/article/StudyForMarkdown) Imagine Blog
+ - November 28, 2023：🚀 [怎么系统性地学习 Web 开发？](https://forimagine.eu.org/article/web_study) Imagine Blog
+ - November 25, 2023：🌮 [如何搭建个人博客？](https://forimagine.eu.org/article/Introduction) Imagine Blog<!-- BLOG-POST-LIST:END -->
 
 </td></tr>
 
