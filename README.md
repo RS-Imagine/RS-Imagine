@@ -128,5 +128,5 @@
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-  <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/icon.png">
+<!-- just img 图片 -->
+![skills](https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/icon.png 'skills')
