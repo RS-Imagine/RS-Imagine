@@ -40,9 +40,9 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RS-Imagine/RS-Imagine/images/artist.png" />
 
-* <a href='https://movie.douban.com/subject/3793023/' target='_blank'>美影《DUNE》</a> 🌟🌟🌟🌟 - 2024-3-9
-* <a href='https://movie.douban.com/subject/25848328/' target='_blank'>美剧《Stranger Things》</a> 🌟🌟🌟🌟 - 2024-3-7
-* <a href='https://book.douban.com/subject/35481711/' target='_blank'>美剧《HALO》</a> 🌟🌟🌟🌟 - 2024-3-3
+* <a href='https://movie.douban.com/subject/35575567/' target='_blank'>美影《Dune: Part Two》</a> 🌟🌟🌟🌟 - 2024-3-9
+* <a href='https://movie.douban.com/subject/26359270/' target='_blank'>美剧《Stranger Things》</a> 🌟🌟🌟🌟 - 2024-3-7
+* <a href='https://movie.douban.com/subject/24748737/' target='_blank'>美剧《HALO》</a> 🌟🌟🌟🌟 - 2024-3-3
 
 </td></tr>
 
